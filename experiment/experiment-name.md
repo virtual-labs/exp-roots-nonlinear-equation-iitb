@@ -1,1 +1,1 @@
-## Experiment name
+## Non-linear equation - Successive Substitution Method
